@@ -17,6 +17,6 @@ public class Fibonacci{
 			System.out.print(fib[i] + " ");
 		}
 		
-		System.out.print("Terima Kasih");
+		System.out.print("reverse of fibonacci");
 	}
 }
